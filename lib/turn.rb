@@ -43,6 +43,6 @@ def turn(board, input, character)
     move(board, index)
     display_board(board)
   else
-    puts "Select a different location."
+    print "Please enter a different number 1-9:"
   end
 end
