@@ -44,4 +44,3 @@ def turn(board, input, character = "X")
     puts "Select a different location."
   end
 end
-    
